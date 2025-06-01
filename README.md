@@ -24,6 +24,6 @@
   <br><br><br>
 
   <!-- Social badges -->
-  [![](https://img.shields.io/badge/linkedin-0a66c2)]()
+  [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/dulketh-dinhas/)
   
 </div>
