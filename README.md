@@ -5,18 +5,16 @@
 
   <!-- Centered Typing SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+Hello!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!+Nice to meet you!" alt="Typing SVG" />
   </a>
 
   <br><br>
 
   <!-- Preformatted text -->
   <pre>
-    💼 BSC @ UFMG • Back-end dev • Platform Engineer
-    💻 System programming languages • DevOps 
-    📖 Software architecture • Distributed systems
-    🎮 Music • Games • Anime • Code • Art
-    🐾 Muffin 🐰 • Cake & Cookie & Pudim & Quindim 🐤🐥
+    💼 Undergraduate • Full-stack dev
+    💻 System programming languages • Python , C++ , CSS , JS , HTML , React.JS
+    🎮 Music • Games • Anime • Code • Art •
   </pre>
 
   <br><br>
