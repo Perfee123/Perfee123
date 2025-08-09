@@ -12,7 +12,7 @@
 
   <!-- Preformatted text -->
   <pre>
-    💼 Undergraduate • Full-stack dev
+    💼 Undergraduate • Front-end dev(Learning full stack)
     💻 System programming languages • Python , C++ , CSS , JS , HTML , React.JS
     🎮 Music • Games • Anime • Code • Art •
   </pre>
