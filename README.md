@@ -12,6 +12,7 @@
     💼 Undergraduate • Front-end dev(Learning full stack)
     💻 System programming languages • Python , C++ , CSS , JS , HTML , React.JS
     🎮 Music • Games • Anime • Code • Art •
+    Check out my newest project [here](https://animexus.netlify.app/) 
   </pre>
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 
