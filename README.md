@@ -9,12 +9,13 @@
 
   <!-- Preformatted text -->
   <pre>
-    💼 Undergraduate • Front-end dev(Learning full stack)
-    💻 System programming languages • Python , C++ , CSS , JS , HTML , React.JS
-    🎮 Music • Games • Anime • Code • Art •
-    </pre>
-  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+ 💼 Undergraduate • Full-stack developer
+ 💻 System Stacks • NEXTJS • TS • JS • REACT • SQL • PYTHON • JAVA • TAURI
+ 🎮 Documentaries • Music • Games • Anime • Code • Art
 
-  <!-- Social badges -->
+ <a href="https://discordapp.com/users/733667927261184080" target="_blank"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat-square&logo=discord&logoColor=white" alt="Discord" height="28" /></a>  <a href="mailto:perfee123.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Contact-121212?style=flat-square&logo=gmail&logoColor=white" alt="Email" height="28" /></a>
+  </pre>
+
+  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" alt="Kyubey" />
   
 </div>
